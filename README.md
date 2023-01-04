@@ -1,11 +1,12 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 <h1 align="center" >Hi 
     <img src="https://i.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.webp" width="40" />
     I am Daljeet Singh</h1>
 <h3 align="center" >A passionate MERN Stack Developer From India</h3>
-    </p>
+    </div>
 <hr></hr>
+
 <p>- 🌱 I’m currently learning **MERN** </p>
 <p>- 👨‍💻 All of my projects are available at <a href="https://daljeet-coder.github.io" target="_blank" >Portfolio </a> </p>
 <p>- 💬 Ask me about <span> CSS | JavaScript | React | Redux </span> </p>
