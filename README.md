@@ -26,7 +26,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/80110392/210498475-7c5470b5-9ac0-49fc-a086-100f5abf8733.svg" alt="javascript" height="80" width="80" height="80" /> </a> &nbsp &nbsp &nbsp
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/80110392/210498509-583509e4-6fba-44c5-9c62-2550b3c03a1e.svg" alt="javascript" height="80" width="80" height="80" /> </a> &nbsp &nbsp &nbsp
     <a href="https://https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80110392/210501305-35907fe5-ffb0-4feb-ab44-cff59dabc865.svg" alt="redux" height="80" width="80" /> </a> &nbsp &nbsp &nbsp
+  <a href="https://https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80110392/211145634-b6732f40-2e9f-48bc-bbab-e2d344a30041.svg" alt="redux" height="80" width="80" /> </a> &nbsp &nbsp &nbsp
     </p>
+
     <p align="right">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80110392/210502569-a5c19368-14c3-473b-829c-fbb050b42f4e.svg" alt="figma" height="80" width="80" /> </a> &nbsp &nbsp &nbsp
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80110392/210502627-042662ed-f5cb-4ede-b978-cfa98ef641b5.svg" alt="heroku" height="80" width="80" /> </a> &nbsp &nbsp &nbsp
