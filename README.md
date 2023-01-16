@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/daljeet singh" target="blank"><img align="center" src="https://user-images.githubusercontent.com/80110392/210498286-920fb2df-fce4-405c-8880-82a5453051dd.svg" alt="daljeet singh" width="40" /></a> &nbsp &nbsp &nbsp
+    <a href="https://www.linkedin.com/in/daljeet-singh-61250723a" target="blank"><img align="center" src="https://user-images.githubusercontent.com/80110392/210498286-920fb2df-fce4-405c-8880-82a5453051dd.svg" alt="daljeet singh" width="40" /></a> &nbsp &nbsp &nbsp
     <a href="https://https://twitter.com/home" target="blank"><img align="center" src="https://user-images.githubusercontent.com/80110392/210498101-439574ae-bdb7-49d4-b56d-98154c3fce0d.svg" alt="daljeet singh" width="40" /></a> &nbsp &nbsp &nbsp
 </p>
 
