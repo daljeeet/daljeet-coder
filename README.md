@@ -22,8 +22,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p  align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80110392/210499593-ca8b2ba2-c9c1-40d9-b358-a99e3ab2b4bc.svg" alt="html5" width="50" ></a> &nbsp &nbsp &nbsp
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/80110392/210498458-d17c5a52-f76d-4f2e-b00e-fe52dca02313.svg" alt="javascript" height="80" width="80" /> </a> &nbsp &nbsp &nbsp
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/80110392/210498475-7c5470b5-9ac0-49fc-a086-100f5abf8733.svg" alt="javascript" height="80" width="80" height="80" /> </a> &nbsp &nbsp &nbsp
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/80110392/210498458-d17c5a52-f76d-4f2e-b00e-fe52dca02313.svg" alt="javascript" width="50" /> </a> &nbsp &nbsp &nbsp
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/80110392/210498475-7c5470b5-9ac0-49fc-a086-100f5abf8733.svg" alt="javascript" width="50" /> </a> &nbsp &nbsp &nbsp
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/80110392/210498509-583509e4-6fba-44c5-9c62-2550b3c03a1e.svg" alt="React" height="80" width="80" height="80" /> </a> &nbsp &nbsp &nbsp
     <a href="https://https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80110392/210501305-35907fe5-ffb0-4feb-ab44-cff59dabc865.svg" alt="redux" height="80" width="80" /> </a> &nbsp &nbsp &nbsp
   <a href="https://https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80110392/211145634-b6732f40-2e9f-48bc-bbab-e2d344a30041.svg" alt="redux" height="80" width="80" /> </a> &nbsp &nbsp &nbsp
