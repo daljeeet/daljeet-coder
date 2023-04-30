@@ -7,16 +7,16 @@
     </div>
 <hr></hr>
 
-<p>- 🌱 I’m currently learning **MERN** </p>
+<p>- 🌱 I’m currently learning SQL </p>
 <p>- 👨‍💻 All of my projects are available at <a href="https://daljeet-coder.github.io" target="_blank" >Portfolio </a> </p>
-<p>- 💬 Ask me about <span> CSS | JavaScript | React | Redux | Node | Express | Next.js | MongoDB | TypeScript | Tailwind ...  </span> </p>
+<p>- 💬 Ask me about <span> HTML | CSS | JavaScript | React | Redux | Node | Express | Next.js | MongoDB | TypeScript | Tailwind ...  </span> </p>
 <p>- 📫Reach at <a href="https://gmail.com">daljeetsingh.chamiyal@gmail.com </a> </p>
 <p>- 📄 Know about my <a href="https://drive.google.com/file/d/1exunc4JK1qGaOS0lxAnfiaPFX5JPfxLd/view?usp=share_link">Experience</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/daljeet-singh-61250723a" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/80110392/210498286-920fb2df-fce4-405c-8880-82a5453051dd.svg" alt="daljeet singh" width="40" /></a> &nbsp &nbsp &nbsp
-    <a href="https://twitter.com/D_s_champ" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/80110392/210498101-439574ae-bdb7-49d4-b56d-98154c3fce0d.svg" alt="daljeet singh" width="40" /></a> &nbsp &nbsp &nbsp
+    <a href="https://www.linkedin.com/in/daljeet-singh-61250723a" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/80110392/210498286-920fb2df-fce4-405c-8880-82a5453051dd.svg" alt="daljeet singh" width="30" /></a> &nbsp &nbsp &nbsp
+    <a href="https://twitter.com/D_s_champ" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/80110392/210498101-439574ae-bdb7-49d4-b56d-98154c3fce0d.svg" alt="daljeet singh" width="30" /></a> &nbsp &nbsp &nbsp
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
