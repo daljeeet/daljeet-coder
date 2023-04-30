@@ -35,6 +35,6 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80110392/210503032-817da1a7-f7c8-4d59-b6c0-6a7e5270ca38.svg" alt="typescript" height="50" width="50" /> </a> 
     </p>
 <h3>My Github Status </>
-<p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=daljeet-coder&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="daljeet-coder" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=daljeet-coder&theme=tokyonight_duo&hide_border=true&border_radius=0)](https://git.io/streak-stats"/></p>
+<p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=daljeet-coder&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="daljeet-coder" /><img src="https://github-readme-streak-stats.herokuapp.com?user=daljeet-coder&theme=tokyonight_duo&hide_border=true&border_radius=0)](https://git.io/streak-stats"/></p>
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=daljeet-coder&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact" alt="daljeet-coder" /></p>
